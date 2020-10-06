@@ -1,3 +1,8 @@
 body{
     background-color: aqua;
 }
+p{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
